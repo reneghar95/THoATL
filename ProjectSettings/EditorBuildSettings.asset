@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3d35a51b804510d41a6eaf5b387961dc
+  - enabled: 1
+    path: Assets/Scenes/Night1.unity
+    guid: f383d841328d53e4b9b4f10c854a123e
+  - enabled: 1
+    path: Assets/Scenes/Night2.unity
+    guid: 9a238e57779063b46a865762829f44ae
+  - enabled: 1
+    path: Assets/Scenes/Night3.unity
+    guid: c9085f4000b64ca4b825ddf743a6aec0
+  - enabled: 1
+    path: Assets/Scenes/Escaped.unity
+    guid: daa930aa169f7444b90e324d146ea925
+  - enabled: 1
+    path: Assets/Scenes/Trapped.unity
+    guid: ab2e3b9cfb9dced41870e7541406179e
+  - enabled: 0
+    path: Assets/Scenes/GameOver.unity
+    guid: 25b16d1f42e3d5f4994c8c5e166c5594
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}

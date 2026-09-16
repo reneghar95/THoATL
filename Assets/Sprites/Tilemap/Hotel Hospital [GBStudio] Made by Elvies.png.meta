@@ -1,0 +1,886 @@
+fileFormatVersion: 2
+guid: 16de500fc7a499d4d837737668f6dc6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4504623239749042221
+    second: Hotel Hospital [GBStudio] Made by Elvies_0
+  - first:
+      213: 7286411588520855762
+    second: Hotel Hospital [GBStudio] Made by Elvies_1
+  - first:
+      213: 7418800626623513213
+    second: Hotel Hospital [GBStudio] Made by Elvies_2
+  - first:
+      213: -7326072880471650581
+    second: Hotel Hospital [GBStudio] Made by Elvies_3
+  - first:
+      213: -9016815093864132673
+    second: Hotel Hospital [GBStudio] Made by Elvies_4
+  - first:
+      213: -1270943012432743267
+    second: Hotel Hospital [GBStudio] Made by Elvies_5
+  - first:
+      213: 3393510444197377161
+    second: Hotel Hospital [GBStudio] Made by Elvies_6
+  - first:
+      213: -1574119874090718570
+    second: Hotel Hospital [GBStudio] Made by Elvies_7
+  - first:
+      213: 6985810239102733015
+    second: Hotel Hospital [GBStudio] Made by Elvies_8
+  - first:
+      213: 2008599773078452669
+    second: Hotel Hospital [GBStudio] Made by Elvies_9
+  - first:
+      213: -8692964750866580627
+    second: Hotel Hospital [GBStudio] Made by Elvies_10
+  - first:
+      213: 4262402350347988999
+    second: Hotel Hospital [GBStudio] Made by Elvies_11
+  - first:
+      213: 2516519231609513990
+    second: Hotel Hospital [GBStudio] Made by Elvies_12
+  - first:
+      213: -2746121911674935930
+    second: Hotel Hospital [GBStudio] Made by Elvies_13
+  - first:
+      213: -6506988000481222412
+    second: Hotel Hospital [GBStudio] Made by Elvies_14
+  - first:
+      213: -6700927976671574336
+    second: Hotel Hospital [GBStudio] Made by Elvies_15
+  - first:
+      213: -2343028159683943736
+    second: Hotel Hospital [GBStudio] Made by Elvies_16
+  - first:
+      213: -6966875907870209712
+    second: Hotel Hospital [GBStudio] Made by Elvies_17
+  - first:
+      213: -2611258571459393066
+    second: Hotel Hospital [GBStudio] Made by Elvies_18
+  - first:
+      213: 9105249772377728728
+    second: Hotel Hospital [GBStudio] Made by Elvies_19
+  - first:
+      213: 3570843516815016158
+    second: Hotel Hospital [GBStudio] Made by Elvies_20
+  - first:
+      213: -529586088154215604
+    second: Hotel Hospital [GBStudio] Made by Elvies_21
+  - first:
+      213: -631053197446900333
+    second: Hotel Hospital [GBStudio] Made by Elvies_22
+  - first:
+      213: -4573479276014816144
+    second: Hotel Hospital [GBStudio] Made by Elvies_23
+  - first:
+      213: 5655549842535771594
+    second: Hotel Hospital [GBStudio] Made by Elvies_24
+  - first:
+      213: 6692573041882111721
+    second: Hotel Hospital [GBStudio] Made by Elvies_25
+  - first:
+      213: -3225183420271136765
+    second: Hotel Hospital [GBStudio] Made by Elvies_26
+  - first:
+      213: 1123348733497784491
+    second: Hotel Hospital [GBStudio] Made by Elvies_27
+  - first:
+      213: 1669014822896393345
+    second: Hotel Hospital [GBStudio] Made by Elvies_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 208
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dff9cba70d5c71c0800000000000000
+      internalID: -4504623239749042221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d843151cb88e1560800000000000000
+      internalID: 7286411588520855762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7207590ddfd4f660800000000000000
+      internalID: 7418800626623513213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 65
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee4dd8c78f845a90800000000000000
+      internalID: -7326072880471650581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 56
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf09dcf176ddd280800000000000000
+      internalID: -9016815093864132673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 57
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d947e2e5014bc5ee0800000000000000
+      internalID: -1270943012432743267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98476f7f4cb281f20800000000000000
+      internalID: 3393510444197377161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 49
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69aa0f6805a972ae0800000000000000
+      internalID: -1574119874090718570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 41
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da410a666592f060800000000000000
+      internalID: 6985810239102733015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 41
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db975420adaffdb10800000000000000
+      internalID: 2008599773078452669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 41
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bfa9bcd926c5780800000000000000
+      internalID: -8692964750866580627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 40
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700384eba58172b30800000000000000
+      internalID: 4262402350347988999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 32
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608268678e87ce220800000000000000
+      internalID: 2516519231609513990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 49
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685e2b0cba0d3e9d0800000000000000
+      internalID: -2746121911674935930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 38
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0669993e882b5a0800000000000000
+      internalID: -6506988000481222412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6830d12858103a0800000000000000
+      internalID: -6700927976671574336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 33
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c22d4b7d44eb7fd0800000000000000
+      internalID: -2343028159683943736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0594b2d164fa05f90800000000000000
+      internalID: -6966875907870209712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 24
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9087f0a22f2cbd0800000000000000
+      internalID: -2611258571459393066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6e7c12d685c5e70800000000000000
+      internalID: 9105249772377728728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 25
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed00448624f2e8130800000000000000
+      internalID: 3570843516815016158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b4499324886a8f0800000000000000
+      internalID: -529586088154215604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3959dcbd57c0e37f0800000000000000
+      internalID: -631053197446900333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 13
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074b68d64dcb780c0800000000000000
+      internalID: -4573479276014816144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd6cdd0e9c8c7e40800000000000000
+      internalID: 5655549842535771594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee1dba09bbc0ec50800000000000000
+      internalID: 6692573041882111721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300724b54c8dd33d0800000000000000
+      internalID: -3225183420271136765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8350ba8bfe69f00800000000000000
+      internalID: 1123348733497784491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel Hospital [GBStudio] Made by Elvies_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cd99b7328892710800000000000000
+      internalID: 1669014822896393345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9a57f14b3c3ed0640810e868d688affa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":4.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hotel Hospital [GBStudio] Made by Elvies_0: -4504623239749042221
+      Hotel Hospital [GBStudio] Made by Elvies_1: 7286411588520855762
+      Hotel Hospital [GBStudio] Made by Elvies_10: -8692964750866580627
+      Hotel Hospital [GBStudio] Made by Elvies_11: 4262402350347988999
+      Hotel Hospital [GBStudio] Made by Elvies_12: 2516519231609513990
+      Hotel Hospital [GBStudio] Made by Elvies_13: -2746121911674935930
+      Hotel Hospital [GBStudio] Made by Elvies_14: -6506988000481222412
+      Hotel Hospital [GBStudio] Made by Elvies_15: -6700927976671574336
+      Hotel Hospital [GBStudio] Made by Elvies_16: -2343028159683943736
+      Hotel Hospital [GBStudio] Made by Elvies_17: -6966875907870209712
+      Hotel Hospital [GBStudio] Made by Elvies_18: -2611258571459393066
+      Hotel Hospital [GBStudio] Made by Elvies_19: 9105249772377728728
+      Hotel Hospital [GBStudio] Made by Elvies_2: 7418800626623513213
+      Hotel Hospital [GBStudio] Made by Elvies_20: 3570843516815016158
+      Hotel Hospital [GBStudio] Made by Elvies_21: -529586088154215604
+      Hotel Hospital [GBStudio] Made by Elvies_22: -631053197446900333
+      Hotel Hospital [GBStudio] Made by Elvies_23: -4573479276014816144
+      Hotel Hospital [GBStudio] Made by Elvies_24: 5655549842535771594
+      Hotel Hospital [GBStudio] Made by Elvies_25: 6692573041882111721
+      Hotel Hospital [GBStudio] Made by Elvies_26: -3225183420271136765
+      Hotel Hospital [GBStudio] Made by Elvies_27: 1123348733497784491
+      Hotel Hospital [GBStudio] Made by Elvies_28: 1669014822896393345
+      Hotel Hospital [GBStudio] Made by Elvies_3: -7326072880471650581
+      Hotel Hospital [GBStudio] Made by Elvies_4: -9016815093864132673
+      Hotel Hospital [GBStudio] Made by Elvies_5: -1270943012432743267
+      Hotel Hospital [GBStudio] Made by Elvies_6: 3393510444197377161
+      Hotel Hospital [GBStudio] Made by Elvies_7: -1574119874090718570
+      Hotel Hospital [GBStudio] Made by Elvies_8: 6985810239102733015
+      Hotel Hospital [GBStudio] Made by Elvies_9: 2008599773078452669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
